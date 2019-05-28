@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_judul"
+        android:text="@string/judul"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/horizontal_32"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textSize="35sp"/>
+
+    <ImageView
+        android:id="@+id/img_anime_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/tv_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_anime_desc"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:text="@string/detail_anime"
+        android:layout_margin="@dimen/horizontal_32"/>
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Muslim Show</string>
+    <string name="judul">Judul Anime</string>
+    <string name="description">description</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="detail">Description</string>
+    <string name="film">Film</string>
+    <string name="about">About Us</string>
+    <string name="Name">Name</string>
+
+    <string name="about_us">Studio Ghibli, Inc. (株式会社スタジオジブリ Kabushiki-gaisha Sutajio Jiburi) adalah sebuah studio film animasi yang berbasis\n
+        di Koganei, Tokyo, Jepang. Film-film animenya mengandung unsur-unsur provokatif, imajinatif, emosional dan \n
+        telah mendapatkan pujian yang luas dari seluruh dunia. Namanya berasal dari nama panggilan yang digunakan orang-orang\n
+        Italia untuk menyebut pesawat-pesawat pengincar Sahara mereka pada masa Perang Dunia II; nama yang mengandung arti angin\n
+        panas yang bertiup menyusuri Gurun Sahara (sirocco). Meskipun istilah tersebut berasal dari bahasa Italia namun kata ini \n
+        diserap dari kata qibli (قبلي) dan etimologis berasal dari kata qibla atau kiblat, dalam bahasa Jepang nama studio itu \n
+        dilafalkan ji-bri atau ji-bu-ri. Teori di balik nama tersebut adalah bahwa studio tersebut sedang meniupkan angin yang baru \n
+        terhadap industri anime. Film-film hasil garapan Studio Ghibli sangat diminati bukan hanya di dalam negeri saja, tetapi hingga\n
+        ke mancanegara. Pada tanggal 1 Oktober 2001, didirikanlah Museum Ghibli, yang menjadi salah satu destinasi wisata paling banyak dikunjungi di Jepang.</string>
+    <string name="open">OPEN</string>
+    <string name="Watch">Watch</string>
+    <string name="detail_anime">Deskripsi Anime</string>
+
+</resources>
